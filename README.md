@@ -8,6 +8,7 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 ## Projects Included
 
 - **Project 1:** ASCII Art Generator.
+- **Project 2:** Coming Soon.
 
 ### **Project 1:** ASCII Art Generator.
 This project is an ASCII Art Generator that converts images into ASCII art. The program processes an image and maps its pixel brightness to corresponding ASCII characters to create a visual representation of the image using text.
@@ -58,8 +59,6 @@ To run the program, use the following command:
 - COM
 - ATLImage
 
-
-- **Project 2:** Coming Soon.
 
 ## Getting Started
 
