@@ -35,7 +35,10 @@ This project is an ASCII Art Generator that converts images into ASCII art. The 
 To run the program, use the following command:
 
 ```sh
-./amg-master [options] [image_url]
+./amg-master [options] [image_url] `or`
+      set url in the main.cpp file.
+            std::string setting_url = "http://blog-photocontact.vellozzi.com/wp-content/uploads/2011/10/Martin-Schoeller-Barack-Obama-portrait.jpeg";
+
 ```
 
 ### Options
