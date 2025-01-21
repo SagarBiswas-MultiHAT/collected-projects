@@ -9,6 +9,7 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 
 - **Project 1:** ASCII Art Generator.
 
+### **Project 1:** ASCII Art Generator.
 This project is an ASCII Art Generator that converts images into ASCII art. The program processes an image and maps its pixel brightness to corresponding ASCII characters to create a visual representation of the image using text.
 
 ## Features
