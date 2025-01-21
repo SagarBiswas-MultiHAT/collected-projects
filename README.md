@@ -33,7 +33,7 @@ This project is an ASCII Art Generator that converts images into ASCII art. The 
 
 ## Usage
 
-To run the program, use the following command: (run with VISUAL STUDIO)
+To run the program, use the following command: **(run with VISUAL STUDIO)**
 
 ```sh
 ./amg-master [options] [image_url] `or`
