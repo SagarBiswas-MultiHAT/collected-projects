@@ -36,7 +36,7 @@ To run the program, use the following command:
 
 ```sh
 ./amg-master [options] [image_url] `or`
-      set url in the main.cpp file.
+      set url in the main.cpp file. (at line 16)
             std::string setting_url = "http://blog-photocontact.vellozzi.com/wp-content/uploads/2011/10/Martin-Schoeller-Barack-Obama-portrait.jpeg";
 
 ```
