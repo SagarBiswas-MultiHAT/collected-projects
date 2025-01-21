@@ -7,8 +7,7 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 
 ## Projects Included
 
-- **Project 1:** .
-# ASCII Art Generator
+- **Project 1:** ASCII Art Generator.
 
 This project is an ASCII Art Generator that converts images into ASCII art. The program processes an image and maps its pixel brightness to corresponding ASCII characters to create a visual representation of the image using text.
 
@@ -73,15 +72,11 @@ To get started with any project in this repository, follow these steps:
 
 Contributions are welcome! If you have an idea or improvement for any project, feel free to fork the repo and submit a pull request. Please ensure that your contributions are well-documented and tested.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
 For any questions or suggestions, feel free to open an issue or reach out to me on GitHub.
 
 Happy coding!
-```
 
-Feel free to adjust or expand upon this template as needed!
