@@ -8,7 +8,7 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 ## Projects Included
 
 - **Project 1:** ASCII Art Generator.
-- **Project 2:** Coming Soon.
+- **Project 2:** Turtle-Art-Shinchan-Drawing.
 
 # **Project 1:** ASCII Art Generator.
 
