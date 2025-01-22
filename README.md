@@ -10,7 +10,7 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 - **Project 1:** ASCII Art Generator.
 - **Project 2:** Coming Soon.
 
-### **Project 1:** ASCII Art Generator.
+# **Project 1:** ASCII Art Generator.
 This project is an ASCII Art Generator that converts images into ASCII art. The program processes an image and maps its pixel brightness to corresponding ASCII characters to create a visual representation of the image using text.
 
 ## Features
@@ -60,7 +60,37 @@ To run the program, use the following command: **(run with VISUAL STUDIO)**
 - ATLImage
 
 
-## Getting Started
+# **Project 2:** Turtle-Art-Shinchan-Drawing.
+
+This project uses Python's Turtle graphics library to draw and animate a character inspired by the popular cartoon figure Shinchan. The program breaks down the character's body parts and accessories, creating a fun and interactive way to explore programming and graphic design with Turtle.
+
+## Features:
+- **Shinchan-inspired character:** The figure includes detailed parts like the head, arms, legs, eyes, mouth, and clothing.
+- **Interactive graphics:** The program visualizes the drawing process step-by-step, making it engaging for users to follow along.
+- **Customizable code:** Modify the drawing functions to tweak Shinchan's features or create your own custom designs.
+
+## Requirements:
+- Python 3.x
+- Turtle graphics library (usually included with Python installations)
+
+## How to Run:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SagarBiswas-MultiHAT/Turtle-Art-Shinchan-Drawing.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Turtle-Art-Shinchan-Drawing
+   ```
+3. Run the Python script:
+   ```bash
+   python shinchan_drawing.py
+   ```
+   
+Enjoy watching Shinchan come to life with Turtle graphics!
+
+
+# Getting Started
 
 To get started with any project in this repository, follow these steps:
 
