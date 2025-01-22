@@ -11,6 +11,9 @@ Welcome to the **Collected Projects** repository! This is a curated collection o
 - **Project 2:** Coming Soon.
 
 # **Project 1:** ASCII Art Generator.
+
+![Project 1](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/474520305_122137252070552158_5865321978973009289_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=82GRjgtrEr4Q7kNvgGEYRXz&_nc_zt=23&_nc_ht=scontent.fdac138-2.fna&_nc_gid=AuxysnRZKelJAY2Xch1vosZ&oh=00_AYAbjM_HZG8oFvMwQYyXOICdmt9tDjbpurDanu_kpbfeuA&oe=6796A815)
+
 This project is an ASCII Art Generator that converts images into ASCII art. The program processes an image and maps its pixel brightness to corresponding ASCII characters to create a visual representation of the image using text.
 
 ## Features
@@ -61,6 +64,8 @@ To run the program, use the following command: **(run with VISUAL STUDIO)**
 
 
 # **Project 2:** Turtle-Art-Shinchan-Drawing.
+
+![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/474627949_122137252844552158_4536279369495664682_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cZgDnINmiA8Q7kNvgGKfkFJ&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=AXT67ffgEwpmeLKz2oubg3a&oh=00_AYBeEGpUq4UJ0mTna5DQs984W6Xvy2v2DZDNDh-Pgl2DGw&oe=6796A8B2)
 
 This project uses Python's Turtle graphics library to draw and animate a character inspired by the popular cartoon figure Shinchan. The program breaks down the character's body parts and accessories, creating a fun and interactive way to explore programming and graphic design with Turtle.
 
